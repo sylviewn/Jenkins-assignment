@@ -1,2 +1,0 @@
-First Jenkins assignment
-first commit to CodeCommit
